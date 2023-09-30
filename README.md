@@ -1,7 +1,5 @@
 Personal Portfolio website
 
-Absolutely, let's simplify the description:
-
 ### HTML (index.html):
 
 1. **Home Section:**
